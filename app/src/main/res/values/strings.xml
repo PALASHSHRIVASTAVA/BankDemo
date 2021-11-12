@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BankRegistrationDemo</string>
+    <string name="t_and_c">Providing PAN &amp; Date of Birth help us find and fetch your KYC from a central registry by the Goverment of India.</string>
+</resources>
